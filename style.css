@@ -65,7 +65,7 @@ body {
 }
 
 .mobile-menu:hover {
-  color: #147efb;
+  color: #032b44;
   transition: all 0.3s;
 }
 
@@ -107,7 +107,7 @@ body {
 }
 
 .mobile-nav span:hover {
-  color: #147efb;
+  color: #032b44;
   transition: all 0.3s;
 }
 
@@ -120,20 +120,20 @@ body {
 }
 
 .mobile-nav ul a {
-  color: #000;
+  color: #032b44;
   font-weight: 500;
   text-decoration: none;
 }
 
 .mobile-nav ul a:hover {
-  color: #147efb;
+  color: #032b44;
   transition: all 0.3s;
 }
 
 nav {
   align-items: center;
   background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 0 10px #032b44;
   display: flex;
   font-size: 1.7rem;
   height: auto;
@@ -172,7 +172,7 @@ nav ul a {
 }
 
 nav ul a:hover {
-  color: #147efb;
+  color: #032b44;
 }
 
 .logo {
@@ -305,7 +305,7 @@ nav ul a:hover {
 }
 
 .hero-text span a:hover {
-  color: #147efb;
+  color: #032b44;
 }
 .hero-text img {
   width: 30px;
@@ -406,12 +406,12 @@ nav ul a:hover {
 }
 
 .text-side span {
-  -webkit-text-decoration: underline #147efb;
-  text-decoration: underline #147efb;
+  -webkit-text-decoration: underline #032b44;
+  text-decoration: underline #032b44;
 }
 
 .text-side h3 {
-  color: #147efb;
+  color: #032b44;
   font-size: 1.7rem;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -494,7 +494,7 @@ nav ul a:hover {
 }
 
 .project-content p {
-  color: #147efb;
+  color: #032b44;
   font-size: 1.7rem;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -666,7 +666,7 @@ nav ul a:hover {
 }
 
 .links a:hover {
-  color: #147efb;
+  color: #032b44;
   transition: all 0.3s;
 }
 
@@ -715,7 +715,7 @@ nav ul a:hover {
 }
 
 .contact__title p {
-  color: #147efb;
+  color: #032b44;
   font-size: 1.7rem;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -760,7 +760,7 @@ nav ul a:hover {
   background-color: #fff;
   border-radius: 50%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  color: #147efb;
+  color: #032b44;
   display: flex;
   height: 5rem;
   justify-content: center;
@@ -788,14 +788,14 @@ nav ul a:hover {
 
 .contact__info a:hover,
 .contact__info p:hover {
-  color: #147efb;
+  color: #032b44;
   transition: all 0.3s;
 }
 /*--------------------------------------------------------------------project----------------------------------------------------------------*/
 .heading {
   margin-bottom: 3rem;
   font-size: 1.7rem;
-  color: #147efb;
+  color: #032b44;
   text-transform: capitalize;
   display: flex;
   align-items: center;
@@ -844,7 +844,7 @@ nav ul a:hover {
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 footer {
-  background-color: #2d2e32;
+  background-color: #032b44;
   padding: 5rem 0rem 1rem;
   width: 100%;
 }
